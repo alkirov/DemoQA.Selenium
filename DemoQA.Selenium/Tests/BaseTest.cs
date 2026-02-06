@@ -28,6 +28,8 @@ namespace DemoQA.Selenium.Tests
         public void TearDown()
         {
             driver.Quit();
+            driver.Dispose();
+            driver = null;
         }
     }
 }
