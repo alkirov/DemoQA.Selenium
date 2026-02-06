@@ -76,7 +76,7 @@ Tests/
 - Runs tests in **headless mode**
 - Reports test results + screenshots
 - Example badge:
-![Build Status](https://github.com/<your-username>/<your-repo>/actions/workflows/ci.yml/badge.svg)
+![Build Status](https://github.com/alkirov/DemoQA.Selenium/actions/workflows/ci.yml/badge.svg)
 
 ---
 
