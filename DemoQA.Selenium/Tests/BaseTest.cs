@@ -27,9 +27,12 @@ namespace DemoQA.Selenium.Tests
         [TearDown]
         public void TearDown()
         {
-            driver.Quit();
-            driver.Dispose();
-            driver = null;
+            if (driver != null)
+            {
+                driver.Quit();
+                driver.Dispose();
+                driver = null;
+            }
         }
     }
 }
