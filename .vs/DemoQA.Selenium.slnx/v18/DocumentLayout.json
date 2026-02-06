@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\alkir\\Desktop\\DemoQA.Selenium\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D825B8D-7C3E-6E45-EAE1-FD6C9BDF114F}|DemoQA.Selenium\\DemoQA.Selenium.csproj|c:\\users\\alkir\\desktop\\demoqa.selenium\\demoqa.selenium\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D825B8D-7C3E-6E45-EAE1-FD6C9BDF114F}|DemoQA.Selenium\\DemoQA.Selenium.csproj|solutionrelative:demoqa.selenium\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\alkir\\Desktop\\DemoQA.Selenium\\DemoQA.Selenium\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "DemoQA.Selenium\\Tests\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\alkir\\Desktop\\DemoQA.Selenium\\DemoQA.Selenium\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "DemoQA.Selenium\\Tests\\BaseTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:26:44.555Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
